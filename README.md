@@ -4,7 +4,10 @@ I'm an MSECE student at Northeastern University specializing in **Computer Visio
 I build AI systems end-to-end — from data pipelines and orchestration (Airflow, Docker, DVC) to model development (PyTorch, TensorFlow, LLMs) and deployment on cloud.
 
 ### 🔭 What I'm working on
-- **Bluebikes Demand + Bias Detection Pipeline** (MLOps – Airflow, DVC, Docker, GCP)
+- **Optimizing Bluebikes Operations using Machine Learning based Demand predictions** (MLOps – Airflow, DVC, Docker, GCP)
+
+### What I've Worked on
+- **Benchmarking ML models for Boston Weekly Weather**
 - **LINS LiDAR-Inertial SLAM** (ROS2, GTSAM, sensor fusion)
 - AI agents for SEO & performance monitoring (TSC internship)
 
@@ -13,14 +16,15 @@ I build AI systems end-to-end — from data pipelines and orchestration (Airflow
 **MLOps:** Docker, Airflow, DVC, MLflow, GitHub Actions, GCP  
 **CV/Robotics:** OpenCV, ROS2, GTSAM, LiDAR, SLAM  
 **Data:** Pandas, SQL  
-**Other:** FastAPI, Flask, Redis, Postgres
+**Other:** FastAPI
 
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/nikhilanilprakash/
 - Portfolio: https://nikhilaprakash.github.io
 
 ---
-
+### Note
+The profile is work in progress!
 <!--
 **NikhilAPrakash/NikhilAPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
