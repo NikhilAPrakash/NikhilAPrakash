@@ -104,8 +104,8 @@ I’m currently seeking **Full-Time roles (2025)** in:
 ## 📫 Get in Touch
 
 - **Email:** nikhilanilprakash@gmail.com  
-- **LinkedIn:** *Add your link*  
-- **Portfolio:** *Add your domain (e.g., nikhilaprakash.github.io)*  
+- **LinkedIn:** linkedin.com/in/nikhilanilprakash
+- **Portfolio:** nikhilaprakash.github.io  
 
 ---
 
