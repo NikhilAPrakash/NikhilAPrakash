@@ -14,7 +14,7 @@ I’m currently seeking **Full-Time roles (2025)** in:
 
 ### 🔹 **Benchmarking ML Models for Boston’s Weekly Weather**
 *Machine Learning, Bayesian Modeling, Time-Series Forecasting*  
-[View Project](#)  
+[View Project](https://github.com/PranavViswanathan/Rebalance-AI?tab=readme-ov-file)  
 - Engineered 4+ models (Bayesian Regression, Gaussian Process, Bayesian Neural Nets, Decision Trees) over **7,000+ NOAA records**.  
 - Decision Trees achieved **37.9% RMSE reduction**, R² = **0.41**, and best MAE among all models.  
 - Built probabilistic models with **Laplace Bayesian MLP**, achieving **92–95% CI coverage** (best uncertainty calibration).  
@@ -24,7 +24,7 @@ I’m currently seeking **Full-Time roles (2025)** in:
 
 ### 🔹 **IPL Score Predictor**
 *Sports Analytics, Regression Modeling*  
-[View Project](#)  
+[View Project](https://github.com/NikhilAPrakash/nikhilaprakash.github.io/blob/main/src/docs/IPL_Score_Predictor_EECE5644.pdf)  
 - Built predictive models (Linear Regression, XGBoost, AdaBoost, Decision Trees) on **500+ IPL matches** across 15 seasons.  
 - Achieved **82% accuracy**, with a **15% uplift** from custom feature engineering and preprocessing.  
 - Delivered complete evaluation pipeline with error analysis, learning curves, and match-level score forecasts.
@@ -52,7 +52,7 @@ I’m currently seeking **Full-Time roles (2025)** in:
 
 ### 🔹 **Comparative Analysis of LiDAR Mapping: LeGO-LOAM vs LIO-SAM**
 *3D Mapping, SLAM, Factor Graphs*  
-[View Project](#)  
+[View Project](https://github.com/NikhilAPrakash/nikhilaprakash.github.io/blob/main/src/docs/ProjectReport_ComparitiveAnalysis_EECE5554.pdf)  
 - Benchmarked both SLAM systems on **KITTI** and **Gazebo** trajectories.  
 - LeGO-LOAM: ATE = **65.24 m**, RPE = **0.64 m**  
 - LIO-SAM: ATE = **248.17 m**, RPE = **4.24 m** (significant IMU drift).  
@@ -63,7 +63,7 @@ I’m currently seeking **Full-Time roles (2025)** in:
 
 ### 🔹 **Event-Triggered Control for Networked Control Systems (PSET & PCMSET)**
 *Control Systems, Stability Analysis, Real-Time Systems*  
-[View Project](#)  
+[View Project](https://github.com/NikhilAPrakash/nikhilaprakash.github.io/blob/main/src/docs/ETC.pdf)  
 - Proposed two novel control schemes—**PSET** & **PCMSET**—combining periodic sampling and switched ETC.  
 - Reduced event transmissions by **30–40%** compared to existing CET/PET/SET/MSET methods.  
 - Verified stability on second-order and **fourth-order inverted pendulum** systems.  
